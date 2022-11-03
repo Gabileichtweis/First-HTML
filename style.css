@@ -1,0 +1,17 @@
+.images {
+    margin-left: 25%;
+}
+
+.title {
+    text-align: center;
+    color: rgb(238, 86, 30);
+}
+
+#image {
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+.topics {
+    text-align: center;
+}
